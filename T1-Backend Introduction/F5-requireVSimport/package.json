@@ -1,0 +1,15 @@
+{
+  "name": "requirevsimport",
+  "version": "1.0.0",
+  "description": "ES6 Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rushikesh Landge",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "random-words": "^2.0.1"
+  }
+}
